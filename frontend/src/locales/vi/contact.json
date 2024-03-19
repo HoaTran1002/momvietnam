@@ -1,0 +1,12 @@
+{
+    "titleContact":"Liên hệ",
+    "sloganContact":"Bạn có bất kỳ thắc mắc, phản hồi/đề xuất hoặc cơ hội hợp tác nào? Vui lòng gửi tin nhắn cho chúng tôi qua biểu mẫu liên hệ trực tuyến bên dưới. Chúng tôi sẽ liên hệ lại với bạn trong thời gian sớm nhất.",
+    "titleFieldType":"Điền các thông tin sau dưới đây",
+    "name":"Tên bạn",
+    "message":"Nội dung ",
+    "placeholderName":"Điền tên của bạn vào đây",
+    "placeholderMessage":"Ghi các nội dung mà bạn thắc mắc hoặc là đánh giá về chúng tôi",
+    "placeholderEmail":"Điền Email của bạn vào đây",
+    "pageTitle":"Liên hệ với chúng tôi",
+    "submitButton":"Gửi nội dung"
+}

@@ -1,0 +1,16 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+h1, h2, h3, h4, h5, h6 {
+    font-size: revert;
+    font-weight: inherit;
+  
+  }
+@layer components{
+    .title_header_navbar{
+        @apply font-normal text-lg relative before:absolute before:-bottom-1 before:transition-all before:duration-300  before:w-0 before:h-[2px]  before:left-2/4 before:rounded-full before:-translate-x-2/4 hover:before:w-full  duration-500
+    }
+    .title_slogan{
+        @apply absolute mt-[106px] top-0 left-0 right-0 bottom-0 h-[105vh] tracking-widest font-normal bg-slate-950/30 flex items-center z-10 text-white uppercase max-sm:text-2xl max-sm:font-medium text-center sm:justify-center sm:text-3xl sm:font-normal
+    }
+}

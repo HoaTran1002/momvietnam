@@ -1,0 +1,13 @@
+{
+    "subscribe":"LIÊN HỆ VỚI CHÚNG TÔI",
+    "subscribeProvider":"CHÚNG TÔI SẼ GIẢI ĐÁP THẮC MẮC CỦA BẠN",
+    "emailPlaceholder":"Nhập email của bạn vào đây",
+    "messagePlaceholder":"Nhập phản hồi của bạn tại đây",
+    "firstNamePlaceholder":"Họ",
+    "lastNamePlaceholder":"Tên",
+    "footer":{
+        "contactTitle":"Liên hệ",
+        "serviceTitle":"Phục vụ vào"
+    },
+    "HomeContactBtn":"GỬI TIN NHẮN"
+}

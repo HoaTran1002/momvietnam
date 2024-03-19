@@ -1,0 +1,13 @@
+{
+    "subscribe":"CONTACT US",
+    "subscribeProvider":"WE WILL PROVIDE AND SUPPORT ALL QUESTIONS OF YOU",
+    "emailPlaceholder":"Enter your email here",
+    "messagePlaceholder":"Enter your feedback here",
+    "firstNamePlaceholder":"First Name",
+    "lastNamePlaceholder":"Last Name",
+    "footer":{
+        "contactTitle":"Contact",
+        "serviceTitle":"Service"
+    },
+    "HomeContactBtn":"SEND MESSAGE"
+}

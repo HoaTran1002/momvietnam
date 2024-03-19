@@ -1,0 +1,20 @@
+.square-loading {
+  width: 100px;
+  height: 100px;
+  border-radius: 5px;
+  animation: flip 1.2s ease-in-out infinite;
+}
+
+@keyframes flip {
+  0% {
+    transform: perspective(200px) rotateX(0) rotateY(0);
+  }
+
+  50% {
+    transform: perspective(200px) rotateX(180deg) rotateY(0);
+  }
+
+  100% {
+    transform: perspective(200px) rotateX(180deg) rotateY(180deg);
+  }
+}

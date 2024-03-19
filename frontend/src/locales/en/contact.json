@@ -1,0 +1,12 @@
+{
+    "titleContact":"Contact",
+    "sloganContact":"Have any queries, feedback/suggestions or collaborations opportunities? Feel free to send us a message via the below online contact form. We will get back to you at our soonest.",
+    "titleFieldType":"PLEASE TYPE YOUR INFORMATION HERE",
+    "name":"Name",
+    "message":"Message",
+    "placeholderName":"Type your name here",
+    "placeholderMessage":"Write your answer or your feedback",
+    "placeholderEmail":"Type your Email here",
+    "pageTitle":"Contact us",
+    "submitButton":"Submit"
+}
